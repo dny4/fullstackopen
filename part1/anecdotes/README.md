@@ -1,4 +1,4 @@
-# Exercise anecdotes 1.11-1.1.14
+# Exercise 1.11-1.1.14
 
 #### commands
 
