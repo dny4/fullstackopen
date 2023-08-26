@@ -1,4 +1,4 @@
-## phonebook 2.6-2.10, 2.11-2.15, 2.6-2.17
+## phonebook 2.6-2.17
 
 ## phonebook
 
