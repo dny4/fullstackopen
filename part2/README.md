@@ -58,6 +58,8 @@ or uploading content
 - [x] 2.16 Improved errors messages, conditional css 
 - [x] 2.17 handle failed promises
 
+---
+
 #### Project 
 Data for countries
 
