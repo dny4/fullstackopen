@@ -1,1 +1,1 @@
-# Things learned from https://fullstackopen.com course
+# Things learned from [fullstackopen](https://fullstackopen.com) course
