@@ -1,5 +1,3 @@
-## part 2 work
-
 ## notes-app
 
 #### install dependencies
