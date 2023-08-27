@@ -1,4 +1,4 @@
-## phonebook 2.6-2.17
+## Exercises 2.6-2.17
 
 ## phonebook
 
